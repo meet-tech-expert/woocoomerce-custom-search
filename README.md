@@ -1,1 +1,1 @@
-# custom
+# Woocommerce Custom Search Plugin
